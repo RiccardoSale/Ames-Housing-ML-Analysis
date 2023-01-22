@@ -24,4 +24,4 @@ Regression Task !
 * Standard scaler option
 # Training and analysis on multiple algorithms
 * Best accuracy and stability achivied with CatBoost algorithm 
-* ANN with adjusted LR can be a fast option to train the model and immediately immediately results on new data
+* ANN with adjusted LR can be a fast option to train the model and immediately obtain results on new data
